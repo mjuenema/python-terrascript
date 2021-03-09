@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 * Build support for Python 3.9
 * Make target for building providers
+* Now possible to update the `terraform` property of Terrascript by adding it multiple times
 * Provider:
   - `esxi`
   - `helm`
